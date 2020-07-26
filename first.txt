@@ -1,1 +1,6 @@
 first text in first file
+
+test cases for categories.
+1. it should list all categories
+ applied code review comment.
+2. user should be able to search category
